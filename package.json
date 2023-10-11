@@ -1,0 +1,28 @@
+{
+  "name": "cheesy-situation",
+  "description": "Food Truck for the Cheesy Techs out there!!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --forceExit --silent",
+    "start": "serve src",
+    "maxWorkers": "1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.22.20",
+    "jsdom": "^22.1.0"
+  },
+  "dependencies": {
+    "@testing-library/dom": "^8.20.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+  
