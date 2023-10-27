@@ -33,7 +33,7 @@ describe('index.html', () => {
     it('renders a header title that links to home page, Review how to create a header tag', () => {
         const headerTitle = container.querySelector('h1').innerHTML;
         const headerTitleATag = container.querySelector('header a');
-        const regex = /BLOOMTECH BAR AND GRILL/i;
+        const regex = /CHEESY SITUATION/i;
         expect(headerTitle).toMatch(regex);
         expect(headerTitleATag.href.includes('index.html')).toEqual(true);
     });
