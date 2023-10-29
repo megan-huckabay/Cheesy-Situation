@@ -23,7 +23,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -113,7 +113,7 @@ header {
 .menu {
     width: 100%;
     height: auto;
-    background-image: url('../img/staff-bartender.jpg');
+    background-image: url('C:\Users\hucka\My-Projects\GrilledCheese\tasty-sandwiches.jpg');
     background-color: rgb(0, 4, 17);
     background-size: cover;
     background-position: center;
