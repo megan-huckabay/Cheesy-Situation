@@ -1,28 +1,26 @@
-# Cheesy-Situation
+<h1> My Single Web Page Application </h1>
 
-Project Name: A Cheesy Situation
+<p>With This Repository I will be showcasing my skills and understanding of HTML and CSS as well as using some javascript and express.js to launch the server... I choose to start with a simple HTML Project because welll without this would we have ever need to become software developers??</p>
 
-<h1>Description:</h1>
+<p>On the main page you have 4 navigation buttons<br>Menu<br>Specials<br>Reservations<br>and Contacts</p>
 
-</b>"A Cheesy Situation"</b> is a delightful project that not only serves as a creative endeavor but also lays the foundation for a future dream – our very own food truck. Inspired by a shared passion for delectable grilled cheese sandwiches, my boyfriend and I have embarked on this journey to bring a unique twist to this classic favorite.
+<p>Each button will be linked to a corresponding page or simply direct you to a section of the page its on..<br>Below the nav section we will start off with 3 very yummy and tasty pictures</p>
 
-<h2>Key Features:</h2>
+<p>followed a div section about me container..the about me section will share a few quick insites about the situation and where we started this cheesy idea<br> Then below will have 3 addtional pictures <br>followed by the rest of the cheesy get down</p>
 
-Gourmet Grilled Cheeses: Experience a tantalizing range of grilled cheese sandwiches, each crafted with a blend of premium ingredients and unique flavor profiles.
+<p> keep in mind that this is just a basic html css application and i someday would like to make this dream reality so any insites and comments are welcomed... open to letting others add to it as well as long as they keeo it cheesy</p>
 
-Classic Favorites: From time-honored classics to inventive combinations, our menu offers something for everyone, ensuring a cheesy delight for every palate.
+<h3>fork a copy of this repo</h3>
+<h3> npm install to install dependencies make sure express is installed as well...</h3>
 
-Online Ordering: Seamlessly place your orders through our user-friendly website, making it convenient to savor our delectable creations.
-
-Customization: Tailor your grilled cheese experience by selecting from an array of breads, cheeses, and mouthwatering toppings.
-
-<h2>Technologies Used:</h2>
-
-<b><ul>This project leverages the following technologies to bring our dream to life:</ul></b>
-
-<b><ul>React:</ul></b> Powering the frontend and delivering a seamless user experience.
-<b><ul>Node.js:</ul></b> Empowering the backend for efficient data handling and processing.
-<b><ul>Express.js:</ul></b> Providing a robust framework for building the server and handling HTTP requests.
-<b><ul>MongoDB:</ul></b> Serving as the database to store menu items, user preferences, and orders.
-<b><ul>Cypress:</ul></b> Ensuring the reliability and functionality of our website through end-to-end testing.
-<b><ul>HTML/CSS:</ul></b> Enabling the creation of an aesthetically pleasing and responsive user interface.
+<h2>List to items i want to also add or fix</h2>
+<ul>
+    <li>change font style</li>
+    <li>add background pictures (menu.html, reservations.html)</li>
+    <li>add containers to each topping section</li>
+    <li>fix font sizes on menu check box items</li>
+    <li>write test for each html file using cypress</li>
+    <li>ask for a fellow alumni to look at the web page and get feed back or ask a learners assistant for feedback</li>
+    <li>once fully completed practice articulating your application process</li>
+    <li>try adding react or other frameworks and libaries to this project with out messing it up.. </li>
+   </ul> 
