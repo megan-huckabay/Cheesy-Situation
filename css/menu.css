@@ -113,7 +113,7 @@ header {
 .menu {
     width: 100%;
     height: auto;
-    background-image: url(\GrilledCheese\tasty-sandwiches.jpg');
+    background-image: url('\GrilledCheese\tasty-sandwiches.jpg');
     background-color: rgb(0, 4, 17);
     background-size: cover;
     background-position: center;
